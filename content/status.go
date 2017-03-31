@@ -1,6 +1,6 @@
 package content
 
-import "../structure"
+import "github.com/rogeecn/crawler/structure"
 import "strings"
 
 const (

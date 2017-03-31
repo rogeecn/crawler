@@ -1,7 +1,7 @@
 package content
 
 import (
-	"../structure"
+	"github.com/rogeecn/crawler/structure"
 	"github.com/PuerkitoBio/goquery"
 	"strings"
 	"testing"

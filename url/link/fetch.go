@@ -1,10 +1,11 @@
 package link
 
 import (
-	"../../content"
-	"../../structure"
-	"github.com/PuerkitoBio/goquery"
 	"strings"
+
+	"github.com/PuerkitoBio/goquery"
+	"github.com/rogeecn/crawler/content"
+	"github.com/rogeecn/crawler/structure"
 )
 
 // FetchLinks ...

@@ -1,8 +1,8 @@
 package content
 
 import (
-	"../structure"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/rogeecn/crawler/structure"
 )
 
 // MatchByQueryPath select content data from query path

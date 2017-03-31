@@ -1,7 +1,7 @@
 package novel
 
 import (
-	"../../structure"
+	"github.com/rogeecn/crawler/structure"
 )
 
 // NewBook 新书发现数据结构
